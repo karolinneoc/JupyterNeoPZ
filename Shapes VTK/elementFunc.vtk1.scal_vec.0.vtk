@@ -1,0 +1,10 @@
+# vtk DataFile Version 3.0
+Arquivo gerado por PZ
+ASCII
+
+DATASET UNSTRUCTURED_GRID
+POINTS 0 float
+POINT_DATA 0
+SCALARS Solution float
+LOOKUP_TABLE default
+
