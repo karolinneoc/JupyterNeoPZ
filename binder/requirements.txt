@@ -1,5 +1,5 @@
 numpy
-mayavi2
+mayavi
 PyQt5 
 ipywidgets 
 ipyevents
