@@ -8,7 +8,7 @@ dependencies:
 - widgetsnbextension=3.5
 - vtk
 - mayavi
-- pyqt=5.10.1
+- PyQt5
 # Python Kernel
 - ipykernel=5.1
 - ipyevents
