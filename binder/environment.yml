@@ -22,4 +22,4 @@ dependencies:
 - xwidgets=0.18.0
 - xleaflet=0.9.0
 - pip:
-  - PyQt5
+  - PyQt4
