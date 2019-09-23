@@ -6,4 +6,4 @@ PyQt5
 widgetsnbextension
 ipyevents
 ipywidgets
-mayavi2
+mayavi==4.7.*
