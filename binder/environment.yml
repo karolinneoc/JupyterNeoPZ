@@ -7,7 +7,8 @@ dependencies:
 - nbconvert=5.5
 - widgetsnbextension=3.5
 - vtk
-- pyqt=4
+- wxPython
+- pyqt
 - mayavi
 # Python Kernel
 - ipykernel=5.1
