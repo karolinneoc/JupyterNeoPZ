@@ -1,9 +1,9 @@
-numpy==1.16.*
-matplotlib==3.*
+numpy
+matplotlib
 scipy
 vtk
 PyQt5
 widgetsnbextension
 ipyevents
 ipywidgets
-mayavi==4.7.*
+mayavi
