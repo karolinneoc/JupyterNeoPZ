@@ -3,7 +3,6 @@ channels:
 dependencies:
 # Jupyter
 - python=3.7
-- libXt
 - widgetsnbextension=3.5
 - vtk
 - mayavi
