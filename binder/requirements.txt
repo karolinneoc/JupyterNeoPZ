@@ -2,7 +2,7 @@ numpy
 scipy
 matplotlib
 vtk
-pyqt
+PyQt5
 widgetsnbextension
 ipyevents
 ipywidgets
