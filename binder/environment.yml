@@ -6,8 +6,9 @@ dependencies:
 - nodejs=11
 - nbconvert=5.5
 - widgetsnbextension=3.5
+- vtk
 - mayavi
-- pyqt
+- pyqt=5.10.1
 # Python Kernel
 - ipykernel=5.1
 - ipyevents
@@ -21,4 +22,3 @@ dependencies:
 - xtensor-blas=0.16.1
 - xwidgets=0.18.0
 - xleaflet=0.9.0
-
