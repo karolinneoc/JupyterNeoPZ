@@ -1,0 +1,15 @@
+channels:
+- conda-forge
+dependencies:
+# Jupyter
+- python=3.7
+- widgetsnbextension=3.5
+- vtk
+- mayavi
+- PyQt5
+- ipyevents
+- ipywidgets=7.5
+- matplotlib=3.1
+- pyvista
+
+
