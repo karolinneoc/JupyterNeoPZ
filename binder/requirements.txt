@@ -1,9 +1,0 @@
-numpy
-matplotlib
-scipy
-vtk
-PyQt5
-widgetsnbextension
-ipyevents
-ipywidgets
-pyvista
