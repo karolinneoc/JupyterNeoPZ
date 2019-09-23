@@ -1,6 +1,0 @@
-seaborn
-numpy
-PyQt5 
-ipywidgets 
-ipyevents
-mayavi
