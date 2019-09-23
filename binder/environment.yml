@@ -6,7 +6,7 @@ dependencies:
 - widgetsnbextension=3.5
 - vtk
 - mayavi
-- PyQt5
+- pyqt=5.13*
 - ipyevents
 - ipywidgets=7.5
 - matplotlib=3.1
