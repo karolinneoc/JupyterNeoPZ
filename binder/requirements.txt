@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+vtk
+PyQt
+widgetsnbextension
+ipyevents
+ipywidgets
+mayavi
