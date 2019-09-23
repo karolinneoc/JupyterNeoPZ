@@ -7,6 +7,7 @@ dependencies:
 - nbconvert=5.5
 - widgetsnbextension=3.5
 - pyqt
+- mayavi
 # Python Kernel
 - ipykernel=5.1
 - ipyevents
@@ -20,5 +21,4 @@ dependencies:
 - xtensor-blas=0.16.1
 - xwidgets=0.18.0
 - xleaflet=0.9.0
-- pip3:
-  - mayavi
+
