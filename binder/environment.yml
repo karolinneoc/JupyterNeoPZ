@@ -1,25 +1,12 @@
+name: pyvista-environment
 channels:
-- conda-forge
+  - pyviz
 dependencies:
-# Jupyter
-- jupyterlab=1.0
-- nodejs=11
-- nbconvert=5.5
-- widgetsnbextension=3.5
-- vtk
-- wxPython
-- pyqt
-- mayavi
-# Python Kernel
-- ipykernel=5.1
-- ipyevents
-- ipywidgets=7.5
-- matplotlib=3.1
-- pandas=0.24
-- python=3.7
-# C++ Kernel
-- xeus-cling=0.6
-- xtensor=0.20.8
-- xtensor-blas=0.16.1
-- xwidgets=0.18.0
-- xleaflet=0.9.0
+  - python
+  - bokeh
+  - pyviz_comms
+  - panel
+  - pip:
+    - git+git://github.com/pyvista/pyvista@master
+    - matplotlib
+    - pyct
