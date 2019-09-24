@@ -1,4 +1,0 @@
-mayavi 
-PyQt5 
-ipywidgets 
-ipyevents

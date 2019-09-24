@@ -1,3 +1,0 @@
-jupyter nbextension enable --py mayavi
-jupyter nbextension enable --py widgetsnbextension
-jupyter nbextension enable --py ipyevents
