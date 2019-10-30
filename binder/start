@@ -5,7 +5,7 @@
 #export PYVISTA_PLOT_THEME=document
 # This is needed for Panel - use with cuation!
 #export PYVISTA_AUTO_CLOSE=false
-#which Xvfb
+which Xvfb
 #Xvfb :99 -screen 0 1024x768x24 > /dev/null 2>&1 &
 #sleep 3
 #exec "$@"
