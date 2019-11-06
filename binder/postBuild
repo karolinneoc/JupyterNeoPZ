@@ -1,2 +1,4 @@
-jupyter nbextension install --py k3d
-jupyter nbextension enable --py k3d
+#!/bin/bash
+
+jupyter nbextension enable --py --sys-prefix k3d
+jupyter nbextension install --py --sys-prefix k3d
